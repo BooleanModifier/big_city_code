@@ -1,0 +1,14 @@
+1. cd -- 'change directory' -- change the folder you're in
+2. touch -- fuck knows -- make a new file
+3. ls -- 'list' -- list the files in a folder
+4. mkdir -- 'make directory' -- make a new folder
+5. clear -- clears the terminal output
+6. pwd -- 'print working directory' -- prints the path to the folder you're currently in
+
+
+Git commands
+1. git init -- make this folder into a git repository
+2. git status -- what's up with my repository
+3. git add -- tells git which changes you'd like to commit
+4. git commit -m "some message" -- versions files with a message
+5. git push -- pushes commits to github if it's been set up
