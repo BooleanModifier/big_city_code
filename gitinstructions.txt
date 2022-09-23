@@ -4,7 +4,9 @@
 4. mkdir -- 'make directory' -- make a new folder
 5. clear -- clears the terminal output
 6. pwd -- 'print working directory' -- prints the path to the folder you're currently in
-
+7. nano -- open text editor
+8. cat -- display text in file 
+9. pwd -- shows what directory you are in
 
 Git commands
 1. git init -- make this folder into a git repository
